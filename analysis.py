@@ -1,1 +1,1 @@
-import numpy as ny
+print("abc")
