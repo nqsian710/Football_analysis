@@ -1,1 +1,0 @@
-print("Football analysis project")
